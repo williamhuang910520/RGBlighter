@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     float current_hue = 0f, current_sat = 1f, current_val = 1f;
     Context context;
     int brightness;
+    int test;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
